@@ -1,0 +1,875 @@
+{
+ "date": "2026-10-27",
+ "generated_at": "2026-10-27T00:35:14.871313+00:00",
+ "fmt": "webp",
+ "cards": [
+  {
+   "tv": "TVC:US10Y",
+   "file": "TVC_US10Y.webp",
+   "file_m": "TVC_US10Y.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "1",
+    "D": "2",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "TVC:DXY",
+   "file": "TVC_DXY.webp",
+   "file_m": "TVC_DXY.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "3",
+    "D": "2",
+    "H": "1"
+   }
+  },
+  {
+   "tv": "OANDA:EURUSD",
+   "file": "OANDA_EURUSD.webp",
+   "file_m": "OANDA_EURUSD.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "C",
+    "D": "B",
+    "H": "A"
+   }
+  },
+  {
+   "tv": "OANDA:USDJPY",
+   "file": "OANDA_USDJPY.webp",
+   "file_m": "OANDA_USDJPY.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "A",
+    "D": "A",
+    "H": "1"
+   }
+  },
+  {
+   "tv": "OANDA:GBPUSD",
+   "file": "OANDA_GBPUSD.webp",
+   "file_m": "OANDA_GBPUSD.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "A",
+    "D": "1",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "TVC:VIX",
+   "file": "TVC_VIX.webp",
+   "file_m": "TVC_VIX.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "B",
+    "D": "1",
+    "H": "A"
+   }
+  },
+  {
+   "tv": "OANDA:SPX500USD",
+   "file": "OANDA_SPX500USD.webp",
+   "file_m": "OANDA_SPX500USD.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "2",
+    "D": "A",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "OANDA:NAS100USD",
+   "file": "OANDA_NAS100USD.webp",
+   "file_m": "OANDA_NAS100USD.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "2",
+    "D": "A",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "OANDA:XAUUSD",
+   "file": "OANDA_XAUUSD.webp",
+   "file_m": "OANDA_XAUUSD.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "C",
+    "D": "C",
+    "H": "A"
+   }
+  },
+  {
+   "tv": "OANDA:WTICOUSD",
+   "file": "OANDA_WTICOUSD.webp",
+   "file_m": "OANDA_WTICOUSD.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "3",
+    "D": "1",
+    "H": "2"
+   }
+  },
+  {
+   "tv": "BINANCE:BTCUSDT.P",
+   "file": "BINANCE_BTCUSDT.P.webp",
+   "file_m": "BINANCE_BTCUSDT.P.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "1",
+    "D": "A",
+    "H": "C"
+   }
+  },
+  {
+   "tv": "BINANCE:ETHUSDT.P",
+   "file": "BINANCE_ETHUSDT.P.webp",
+   "file_m": "BINANCE_ETHUSDT.P.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "1",
+    "D": "A",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "OANDA:GBPJPY",
+   "file": "OANDA_GBPJPY.webp",
+   "file_m": "OANDA_GBPJPY.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "A",
+    "D": "1",
+    "H": "3"
+   }
+  },
+  {
+   "tv": "OANDA:EURJPY",
+   "file": "OANDA_EURJPY.webp",
+   "file_m": "OANDA_EURJPY.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "A",
+    "D": "B",
+    "H": "2"
+   }
+  },
+  {
+   "tv": "OANDA:AUDJPY",
+   "file": "OANDA_AUDJPY.webp",
+   "file_m": "OANDA_AUDJPY.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "A",
+    "D": "B",
+    "H": "2"
+   }
+  },
+  {
+   "tv": "BINANCE:BCHUSDT.P",
+   "file": "BINANCE_BCHUSDT.P.webp",
+   "file_m": "BINANCE_BCHUSDT.P.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "B",
+    "D": "A",
+    "H": "3"
+   }
+  },
+  {
+   "tv": "BINANCE:ZECUSDT.P",
+   "file": "BINANCE_ZECUSDT.P.webp",
+   "file_m": "BINANCE_ZECUSDT.P.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "3",
+    "D": "B",
+    "H": "2"
+   }
+  },
+  {
+   "tv": "BINANCE:BNBUSDT.P",
+   "file": "BINANCE_BNBUSDT.P.webp",
+   "file_m": "BINANCE_BNBUSDT.P.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "1",
+    "D": "B",
+    "H": "2"
+   }
+  },
+  {
+   "tv": "BINANCE:SOLUSDT.P",
+   "file": "BINANCE_SOLUSDT.P.webp",
+   "file_m": "BINANCE_SOLUSDT.P.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "1",
+    "D": "A",
+    "H": "A"
+   }
+  },
+  {
+   "tv": "BINANCE:XRPUSDT.P",
+   "file": "BINANCE_XRPUSDT.P.webp",
+   "file_m": "BINANCE_XRPUSDT.P.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "B",
+    "D": "A",
+    "H": "1"
+   }
+  },
+  {
+   "tv": "BINANCE:HYPEUSDT.P",
+   "file": "BINANCE_HYPEUSDT.P.webp",
+   "file_m": "BINANCE_HYPEUSDT.P.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "",
+    "D": "",
+    "H": "2"
+   }
+  },
+  {
+   "tv": "KRAKEN:XMRUSD",
+   "file": "KRAKEN_XMRUSD.webp",
+   "file_m": "KRAKEN_XMRUSD.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "1",
+    "D": "3",
+    "H": "1"
+   }
+  },
+  {
+   "tv": "BINANCE:DASHUSDT.P",
+   "file": "BINANCE_DASHUSDT.P.webp",
+   "file_m": "BINANCE_DASHUSDT.P.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "1",
+    "D": "B",
+    "H": "1"
+   }
+  },
+  {
+   "tv": "BINANCE:DOGEUSDT.P",
+   "file": "BINANCE_DOGEUSDT.P.webp",
+   "file_m": "BINANCE_DOGEUSDT.P.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "B",
+    "D": "A",
+    "H": "1"
+   }
+  },
+  {
+   "tv": "BINANCE:LINKUSDT.P",
+   "file": "BINANCE_LINKUSDT.P.webp",
+   "file_m": "BINANCE_LINKUSDT.P.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "1",
+    "D": "A",
+    "H": "A"
+   }
+  },
+  {
+   "tv": "BINANCE:BCHBTC",
+   "file": "BINANCE_BCHBTC.webp",
+   "file_m": "BINANCE_BCHBTC.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "B",
+    "D": "B",
+    "H": "3"
+   }
+  },
+  {
+   "tv": "NASDAQ:NVDA",
+   "file": "NASDAQ_NVDA.webp",
+   "file_m": "NASDAQ_NVDA.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "2",
+    "D": "A",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "NASDAQ:MSFT",
+   "file": "NASDAQ_MSFT.webp",
+   "file_m": "NASDAQ_MSFT.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "1",
+    "D": "2",
+    "H": "1"
+   }
+  },
+  {
+   "tv": "NASDAQ:AAPL",
+   "file": "NASDAQ_AAPL.webp",
+   "file_m": "NASDAQ_AAPL.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "3",
+    "D": "3",
+    "H": "A"
+   }
+  },
+  {
+   "tv": "NASDAQ:GOOGL",
+   "file": "NASDAQ_GOOGL.webp",
+   "file_m": "NASDAQ_GOOGL.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "2",
+    "D": "A",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "NASDAQ:AMZN",
+   "file": "NASDAQ_AMZN.webp",
+   "file_m": "NASDAQ_AMZN.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "2",
+    "D": "2",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "NASDAQ:META",
+   "file": "NASDAQ_META.webp",
+   "file_m": "NASDAQ_META.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "1",
+    "D": "A",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "NASDAQ:AVGO",
+   "file": "NASDAQ_AVGO.webp",
+   "file_m": "NASDAQ_AVGO.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "A",
+    "D": "C",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "NASDAQ:TSLA",
+   "file": "NASDAQ_TSLA.webp",
+   "file_m": "NASDAQ_TSLA.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "B",
+    "D": "2",
+    "H": "1"
+   }
+  },
+  {
+   "tv": "NASDAQ:SPCX",
+   "file": "NASDAQ_SPCX.webp",
+   "file_m": "NASDAQ_SPCX.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "",
+    "D": "A",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "NASDAQ:INTC",
+   "file": "NASDAQ_INTC.webp",
+   "file_m": "NASDAQ_INTC.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "2",
+    "D": "A",
+    "H": "1"
+   }
+  },
+  {
+   "tv": "NASDAQ:PLTR",
+   "file": "NASDAQ_PLTR.webp",
+   "file_m": "NASDAQ_PLTR.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "1",
+    "D": "2",
+    "H": "1"
+   }
+  },
+  {
+   "tv": "NASDAQ:TSLL",
+   "file": "NASDAQ_TSLL.webp",
+   "file_m": "NASDAQ_TSLL.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "B",
+    "D": "2",
+    "H": "1"
+   }
+  },
+  {
+   "tv": "AMEX:SOXL",
+   "file": "AMEX_SOXL.webp",
+   "file_m": "AMEX_SOXL.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "A",
+    "D": "A",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "NASDAQ:TQQQ",
+   "file": "NASDAQ_TQQQ.webp",
+   "file_m": "NASDAQ_TQQQ.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "2",
+    "D": "A",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "NASDAQ:IBIT",
+   "file": "NASDAQ_IBIT.webp",
+   "file_m": "NASDAQ_IBIT.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "1",
+    "D": "2",
+    "H": "A"
+   }
+  },
+  {
+   "tv": "NASDAQ:MU",
+   "file": "NASDAQ_MU.webp",
+   "file_m": "NASDAQ_MU.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "2",
+    "D": "A",
+    "H": "1"
+   }
+  },
+  {
+   "tv": "NASDAQ:SNDK",
+   "file": "NASDAQ_SNDK.webp",
+   "file_m": "NASDAQ_SNDK.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "2",
+    "D": "A",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "NASDAQ:AMD",
+   "file": "NASDAQ_AMD.webp",
+   "file_m": "NASDAQ_AMD.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "2",
+    "D": "A",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "NYSE:TSM",
+   "file": "NYSE_TSM.webp",
+   "file_m": "NYSE_TSM.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "2",
+    "D": "A",
+    "H": "1"
+   }
+  },
+  {
+   "tv": "NYSE:IONQ",
+   "file": "NYSE_IONQ.webp",
+   "file_m": "NYSE_IONQ.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "A",
+    "D": "A",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "NASDAQ:RGTI",
+   "file": "NASDAQ_RGTI.webp",
+   "file_m": "NASDAQ_RGTI.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "C",
+    "D": "C",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "NYSE:LLY",
+   "file": "NYSE_LLY.webp",
+   "file_m": "NYSE_LLY.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "3",
+    "D": "1",
+    "H": "A"
+   }
+  },
+  {
+   "tv": "NASDAQ:RXRX",
+   "file": "NASDAQ_RXRX.webp",
+   "file_m": "NASDAQ_RXRX.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "1",
+    "D": "A",
+    "H": "1"
+   }
+  },
+  {
+   "tv": "NASDAQ:SDGR",
+   "file": "NASDAQ_SDGR.webp",
+   "file_m": "NASDAQ_SDGR.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "1",
+    "D": "A",
+    "H": "1"
+   }
+  },
+  {
+   "tv": "NASDAQ:CEG",
+   "file": "NASDAQ_CEG.webp",
+   "file_m": "NASDAQ_CEG.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "B",
+    "D": "A",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "NYSE:VST",
+   "file": "NYSE_VST.webp",
+   "file_m": "NYSE_VST.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "B",
+    "D": "2",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "NASDAQ:TLN",
+   "file": "NASDAQ_TLN.webp",
+   "file_m": "NASDAQ_TLN.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "B",
+    "D": "2",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "NYSE:SMR",
+   "file": "NYSE_SMR.webp",
+   "file_m": "NYSE_SMR.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "B",
+    "D": "A",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "NYSE:OKLO",
+   "file": "NYSE_OKLO.webp",
+   "file_m": "NYSE_OKLO.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "C",
+    "D": "C",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "TSX:CCO",
+   "file": "TSX_CCO.webp",
+   "file_m": "TSX_CCO.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "A",
+    "D": "C",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "NYSE:LEU",
+   "file": "NYSE_LEU.webp",
+   "file_m": "NYSE_LEU.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "C",
+    "D": "C",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "AMEX:URA",
+   "file": "AMEX_URA.webp",
+   "file_m": "AMEX_URA.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "C",
+    "D": "A",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "AMEX:NUKZ",
+   "file": "AMEX_NUKZ.webp",
+   "file_m": "AMEX_NUKZ.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "A",
+    "D": "C",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "NASDAQ:WULF",
+   "file": "NASDAQ_WULF.webp",
+   "file_m": "NASDAQ_WULF.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "A",
+    "D": "C",
+    "H": "1"
+   }
+  },
+  {
+   "tv": "NASDAQ:IREN",
+   "file": "NASDAQ_IREN.webp",
+   "file_m": "NASDAQ_IREN.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "A",
+    "D": "A",
+    "H": "B"
+   }
+  },
+  {
+   "tv": "NASDAQ:NFLX",
+   "file": "NASDAQ_NFLX.webp",
+   "file_m": "NASDAQ_NFLX.webp",
+   "w": 1550,
+   "h": 2600,
+   "wm": 1550,
+   "hm": 2600,
+   "waves": {
+    "W": "C",
+    "D": "C",
+    "H": "C"
+   }
+  }
+ ]
+}
